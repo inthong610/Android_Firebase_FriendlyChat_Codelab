@@ -3,47 +3,55 @@
 > Firebase codelab으로 공부.
 
 
+
+
+
+
+
+
+
+
+
 ## 1. 결과물
 ## a. MainActivity
 
 
-![1 mainactivity](https://user-images.githubusercontent.com/41661879/52057064-6a052900-25a7-11e9-9e32-c5e97d5336d7.jpg)
+![1 mainactivity](https://user-images.githubusercontent.com/41661879/52057830-75f1ea80-25a9-11e9-9251-35591ba170a2.jpg)
 
 
 ## b. Realtime Database
 
-<img width="1280" alt="2 realtimedb" src="https://user-images.githubusercontent.com/41661879/52057070-6c678300-25a7-11e9-995e-f1a01dc3b721.png">
-
+<img width="1280" alt="2 realtimedb" src="https://user-images.githubusercontent.com/41661879/52057831-768a8100-25a9-11e9-9b23-f00b437deadc.png">
 
 
 ## c. Remote Config
 
 
-<img width="1280" alt="3 remoteconfig" src="https://user-images.githubusercontent.com/41661879/52057077-7093a080-25a7-11e9-97ac-7784fc44b77f.png">
+<img width="1280" alt="3 remoteconfig" src="https://user-images.githubusercontent.com/41661879/52057832-768a8100-25a9-11e9-818d-1471c57c50c8.png">
 
 
 ## d. Invite in App
 
 
-![4 invite_inapp](https://user-images.githubusercontent.com/41661879/52057078-7093a080-25a7-11e9-9773-ed31e835c43e.jpg)
+![4 invite_inapp](https://user-images.githubusercontent.com/41661879/52057834-77231780-25a9-11e9-9e6f-4257a15d0530.jpg)
 
 
 ## e. Invite successed Message
 
 
-![5 invite_successmessage](https://user-images.githubusercontent.com/41661879/52057081-72f5fa80-25a7-11e9-8ad1-68ccee49aeb8.png)
+![5 invite_successmessage](https://user-images.githubusercontent.com/41661879/52057836-77231780-25a9-11e9-8c04-62fb1bf1ba5c.png)
 
 
 ## f. Invited Mail in Email box
 
 
-<img width="1280" alt="6 invite_toemailbox" src="https://user-images.githubusercontent.com/41661879/52057088-75585480-25a7-11e9-99c9-cd0d49d10672.png">
+<img width="1280" alt="6 invite_toemailbox" src="https://user-images.githubusercontent.com/41661879/52057837-77231780-25a9-11e9-988d-68e981062e3a.png">
 
 ## g. Cause Crash
 
 
 
-![7 causecrash](https://user-images.githubusercontent.com/41661879/52057092-77baae80-25a7-11e9-82a2-ae1476bc2873.jpg)
+![7 causecrash](https://user-images.githubusercontent.com/41661879/52057839-77bbae00-25a9-11e9-993d-dcebfc73b0da.jpg)
 
 
 
@@ -51,15 +59,15 @@
 
 
 
-<img width="1280" alt="8 crashlytics" src="https://user-images.githubusercontent.com/41661879/52057099-7b4e3580-25a7-11e9-9c9b-73d98e3714fb.png">
+<img width="1280" alt="8 crashlytics" src="https://user-images.githubusercontent.com/41661879/52057842-77bbae00-25a9-11e9-9ad0-ebcc82708aa8.png">
 
 ## i. Test Lab
 
 
-<img width="1280" alt="9 testlab" src="https://user-images.githubusercontent.com/41661879/52057119-84d79d80-25a7-11e9-9a65-3a7bcda01f03.png">
+<img width="1280" alt="9 testlab" src="https://user-images.githubusercontent.com/41661879/52057843-77bbae00-25a9-11e9-8e0f-043aa07108bf.png">
 
 
-<img width="1280" alt="10 testlab2" src="https://user-images.githubusercontent.com/41661879/52057128-8903bb00-25a7-11e9-8bd7-c6f5b5dbfe65.png">
+<img width="1280" alt="10 testlab2" src="https://user-images.githubusercontent.com/41661879/52057844-78544480-25a9-11e9-9124-8520886cb8f5.png">
 
 
 
