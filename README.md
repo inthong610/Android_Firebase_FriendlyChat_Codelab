@@ -32,15 +32,11 @@
 
 ## d. Invite in App
 
-
-![4 invite_inapp](https://user-images.githubusercontent.com/41661879/52057834-77231780-25a9-11e9-9e6f-4257a15d0530.jpg)
-
+<img src="https://user-images.githubusercontent.com/41661879/52057834-77231780-25a9-11e9-9e6f-4257a15d0530.jpg" width="30%" height="30%">
 
 ## e. Invite successed Message
 
-
-![5 invite_successmessage](https://user-images.githubusercontent.com/41661879/52057836-77231780-25a9-11e9-8c04-62fb1bf1ba5c.png)
-
+<img src="https://user-images.githubusercontent.com/41661879/52057836-77231780-25a9-11e9-8c04-62fb1bf1ba5c.png" width="30%" height="30%">
 
 ## f. Invited Mail in Email box
 
