@@ -2,16 +2,6 @@
 > 안드로이드에서 파이어베이스를 이용하여 채팅앱 만들기
 > Firebase codelab으로 공부.
 
-
-
-
-
-
-
-
-
-
-
 ## 1. 결과물
 ## a. MainActivity
 
@@ -21,8 +11,7 @@
 
 ## b. Realtime Database
 
-<img width="1280" alt="2 realtimedb" src="https://user-images.githubusercontent.com/41661879/52057831-768a8100-25a9-11e9-9b23-f00b437deadc.png">
-
+<img src="https://user-images.githubusercontent.com/41661879/52057831-768a8100-25a9-11e9-9b23-f00b437deadc.png" width="70%" height="70%">
 
 ## c. Remote Config
 
@@ -45,11 +34,7 @@
 
 ## g. Cause Crash
 
-
-
-![7 causecrash](https://user-images.githubusercontent.com/41661879/52057839-77bbae00-25a9-11e9-993d-dcebfc73b0da.jpg)
-
-
+<img src="https://user-images.githubusercontent.com/41661879/52057839-77bbae00-25a9-11e9-993d-dcebfc73b0da.jpg" width="30%" height="30%">
 
 ## h. Crashlytics
 
