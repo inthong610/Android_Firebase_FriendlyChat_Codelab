@@ -6,12 +6,12 @@
 ## a. MainActivity
 
 
-<img src="https://user-images.githubusercontent.com/41661879/52057830-75f1ea80-25a9-11e9-9251-35591ba170a2.jpg" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/41661879/52057830-75f1ea80-25a9-11e9-9251-35591ba170a2.jpg" width="30%" height="25%">
 
 
 ## b. Realtime Database
 
-<img src="https://user-images.githubusercontent.com/41661879/52057831-768a8100-25a9-11e9-9b23-f00b437deadc.png" width="70%" height="70%">
+<img src="https://user-images.githubusercontent.com/41661879/52057831-768a8100-25a9-11e9-9b23-f00b437deadc.png" width="70%" height="80%">
 
 ## c. Remote Config
 
