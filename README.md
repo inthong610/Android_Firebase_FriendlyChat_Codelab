@@ -16,7 +16,7 @@
 ## a. MainActivity
 
 
-<img src="https://user-images.githubusercontent.com/41661879/52057830-75f1ea80-25a9-11e9-9251-35591ba170a2.jpg" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/41661879/52057830-75f1ea80-25a9-11e9-9251-35591ba170a2.jpg" width="30%" height="30%">
 
 
 ## b. Realtime Database
