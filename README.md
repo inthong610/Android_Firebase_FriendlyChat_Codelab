@@ -50,7 +50,7 @@
 https://codelabs.developers.google.com/codelabs/firebase-android/#0
 
 
-## 2. 생성일
+## 2. 최종 업데이트 
 
 #### 2018.10.24(WED)
 
