@@ -52,7 +52,7 @@ https://codelabs.developers.google.com/codelabs/firebase-android/#0
 
 ## 2. 최종 업데이트 날짜 
 
-#### 2018.10.24(WED)
+2018.10.24(WED)
 
 ## 3. 라이센스 정보
 See [LICENSE](LICENSE), Apache License 2.0
